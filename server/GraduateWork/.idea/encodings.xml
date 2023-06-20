@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/CommentMicroService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CommentMicroService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DIscoveryMircoService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DIscoveryMircoService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataBaseMicroservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataBaseMicroservice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EventMicroService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EventMicroService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GatewayMicroService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GatewayMicroService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ResultMicroservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ResultMicroservice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SponsorMicroService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SponsorMicroService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TournamentMicroService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TournamentMicroService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UserMicroService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UserMicroService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

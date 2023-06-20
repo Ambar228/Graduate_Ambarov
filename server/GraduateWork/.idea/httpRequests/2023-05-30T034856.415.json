@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-05-30T00:48:56.007+00:00",
+  "status": 415,
+  "error": "Unsupported Media Type",
+  "path": "/add"
+}
